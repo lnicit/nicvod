@@ -80,10 +80,8 @@ CGTN-X,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/
 兵团卫视-SD,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-康巴卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000003000001598/1.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
-大湾区卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
-农林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
-厦门卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
+厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
+陕西卫视-SD,http://124.128.73.58:9901/tsfile/live/0136_1.m3u8
 
 
 中国教育1,http://183.204.13.13/1.v.smtcdns.net/mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
