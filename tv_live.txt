@@ -62,7 +62,8 @@ CCTV5+,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 厦门卫视-SD,https://udpxy.carlzeng.top:3/rtp/239.3.1.143:4120
 陕西卫视-SD,http://124.128.73.58:9901/tsfile/live/0136_1.m3u8
-大湾区卫视-SD,http://glive.grtn.cn/live/lizhi.m3u8
+大湾区卫视-SD,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+康巴卫视-SD,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 中国教育1,https://udpxy.carlzeng.top:3/rtp/239.3.1.57:8152
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
@@ -116,6 +117,10 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 生活时尚,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+五星体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
+家庭理财,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8
+财富天下,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8
+中国天气,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8
 黑莓电竞,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225559/index.m3u8
 黑莓电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225681/index.m3u8
 
