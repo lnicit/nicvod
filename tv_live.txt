@@ -131,6 +131,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 电影解说-4,https://tv.iill.top/huya/23419131
 止戈电影-5,https://tv.iill.top/huya/19863777
 美剧解说,https://tv.iill.top/huya/20488841
+DY直播,https://tv.iill.top/huya/24634408
 
 纪录科教,#genre#
 
